@@ -3,8 +3,10 @@
 ## About me
 
 I am a bachelor in Computer Science.
-<!--\I am currently working as a  researcher & developer in Machine Learning and Big Data at Huawei [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/huawei.svg' alt='huawei' height='20'>](https://career.huawei.ru/rri/en/).\
-You can learn a little more about me [here](https://mordiggian174.github.io/zinchse/#) :)-->
+
+I am currently working as a  researcher and developer in Machine Learning and Database at Huawei [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/huawei.svg' alt='huawei' height='20'>](https://career.huawei.ru/rri/en/).
+
+You can learn a little more about me [here](https://mordiggian174.github.io/zinchse/#)
 
 ## My Technologies
 
